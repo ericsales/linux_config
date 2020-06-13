@@ -22,6 +22,6 @@ apt install arc-theme
 
 #Add theme-arc-icon
 git clone https://github.com/horst3180/arc-icon-theme --depth 1
-cp Arc /usr/share/icons
+cp /home/$USER/arc-icon-theme/Arc /usr/share/icons
 
 
