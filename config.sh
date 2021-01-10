@@ -15,6 +15,7 @@
 
 #Programas
 apt install gcc
+apt install g++
 apt install vim
 apt install mutt
 
